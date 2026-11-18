@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-11-18T04:32:30.022874328Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-11-18T04:36:50.686791104Z",
     "templateType": "trip_b",
     "propertyId": "2442d728-7921-44d2-9cd2-9352b36acb64",
     "homepageId": "01a1ab6e-aded-7cbd-8d80-0807641298b8"
@@ -22,12 +22,12 @@
     "checkin": "14:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 14시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n18시 이후에도 입실 가능합니다",
-    "usageGuide": "[공지사항]\n※ 인원 초과 입실 불가, 당일 인원 추가 불가, 인원 변동 시 체크인 하루 전까지 연락 요망\n\n[입퇴실안내]\n- 입실: 14시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n18시 이후에도 입실 가능합니다\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 선결제\n※ 객실 금액은 기준 인원에 대한 금액으로 기준 인원 초과 시 추가 요금 발생 하며 예약 시 인원을 꼭 확인해주세요.\n※ 최대 인원 초과 입실 불가, 당일 인원 추가 불가, 인원 변동 시 체크인 기준 하루 전까지 사전 연락 부탁 드립니다.\n\n[공용바베큐]\n- 이용 객실: 전 객실\n- 이용 장소: 공용바베큐장\n- 바베큐 형태: 숯불\n- 제공 구성: 숯+그릴+집게+가위\n- 이용 요금: 2인기준 20,000원 / 1인 추가 시 5,000원(1박기준/현장결제)\n- 신청 시간: 제한없음\n- 준비 소요시간: 15분\n- 이용 시간: ~ 23:00\n※ 우천/동계/강풍 시 이용 가능 \n※ 사계절 이용 가능 \n※ 동절기에는 공용 바베큐장 이용 권장 \n※ 바베큐장 애견 동반 불가\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 이용 장소: 개별 테라스\n- 바베큐 형태:숯불 \n- 제공 구성:석쇠, 숯\n- 이용 요금: 2인기준 20,000원 / 1인 추가 시 5,000원(1박기준/현장결제)\n- 신청 시간: 제한없음\n- 준비 소요시간: 15분\n- 이용 시간: ~ 23:00\n※ 우천/동계/강풍 시 이용 가능\n※ 개별테라스 바베큐 가능하나 동절기에는 공동 바베큐장 이용 권장\n※ 풀잎향기, 꽃잎향기: 창문 있음 / 처음향기, 마음향기, 나무향기, 솔잎향기: 비닐 또는 천막 없음\n\n[공용수영장]\n- 이용 객실: 전 객실\n- 운영 계절: 하절기\n- 운영 기간: 26년도 6월 12일~9월 27일\n- 온도: 냉수\n- 이용 요금: 무료\n- 이용 시간: 14:00 ~ 20:00\n- 이용 복장: 자유복장\n- 수영장 크기: 가로 500 x 세로 600 x 높이 100(cm)\n※ 수영장에 애견 입수 불가\n※ 우천 시 이용 불가\n※ 운영시간은 현장 상황에 따라 변경될 수 있음\n\n[애견동반]\n- 이용 객실: 전객실\n- 이용 요금: 1마리 당 10,000원 (1박기준/현장결제)\n- 제한 무게: 7kg 소형견\n- 제한 마릿수: 2마리까지\n- 반려동물 허용 종류: 반려견만 가능\n- 제한 사항: 맹견 종류 입실 불가\n\n[스파]\n- 이용 객실: 마음향기, 나무향기, 풀잎향기, 꽃잎향기\n- 스파 형태: 월풀 스파\n- 수용 인원: 1인\n- 이용 요금: 무료\n- 이용 시간: 제한없음\n- 온도 조절: 가능\n- 입욕제 사용: 가능\n\n[불멍]\n- 이용 객실: 전객실\n- 운영 기간: 사계절\n- 이용 장소: 1층 마당\n- 제공 구성: 장작\n- 이용 요금: 20,000원 (1박기준/현장결제)\n- 이용 시간: ~23:00 \n- 개인 불멍 용품(화롯대, 연료 등) 지참: 불가\n- 외부 장작 반입: 불가\n※ 우천, 강풍 시 이용 불가\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 엘레베이터 미보유\n- 넷플릭스 이용 불가\n- 드무리해변 약 2분, 십리포해수욕장 약 13분\n- 펜션 앞 바다에서 바지락 체험 가능\n- 영흥대교 밑 낚시 가능(무료)\n\n[주차장]\n- 주자창 보유\n- 이용 요금: 무료 \n- 주차 대수: 제한없음\n- 전기차 충전기 이용 불가\n※ 전기차 충전은 차량 5분 거리 낚시터 안에서 가능\n\n[픽업]\n- 픽업 종류: 자체픽업\n- 제공 픽업: 입퇴실\n- 장소: 드무리 해변 정류장\n- 이용 요금:무료 \n- 이용 시간 : 제한 없음\n- 픽업 가능 정원: 4인 \n\n- 픽업 종류: 마트픽업\n- 제공 픽업: 입실만\n- 마트명: 나들가게 해피마트\n- 3만원 이상 구매 시 이용 가능",
+    "usageGuide": "※ 인원 초과 입실 불가, 당일 인원 추가 불가, 인원 변동 시 체크인 하루 전까지 연락 요망\n\n[입퇴실안내]\n- 입실: 14시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n18시 이후에도 입실 가능합니다\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 1인 20,000원\n(1박기준)\n※ 객실 금액은 기준 인원에 대한 금액으로 기준 인원 초과 시 추가 요금 발생 하며 예약 시 인원을 꼭 확인해주세요.\n※ 최대 인원 초과 입실 불가, 당일 인원 추가 불가, 인원 변동 시 체크인 기준 하루 전까지 사전 연락 부탁 드립니다.\n\n[공용바베큐]\n- 이용 객실: 전 객실\n- 이용 장소: 공용바베큐장\n- 바베큐 형태: 숯불\n- 제공 구성: 숯+그릴+집게+가위\n- 이용 요금: 2인기준 20,000원 / 1인 추가 시 5,000원(1박기준/현장결제)\n- 신청 시간: 제한없음\n- 준비 소요시간: 15분\n- 이용 시간: ~ 23:00\n※ 우천/동계/강풍 시 이용 가능 \n※ 사계절 이용 가능 \n※ 동절기에는 공용 바베큐장 이용 권장 \n※ 바베큐장 애견 동반 불가\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 이용 장소: 개별 테라스\n- 바베큐 형태:숯불 \n- 제공 구성:석쇠, 숯\n- 이용 요금: 2인기준 20,000원 / 1인 추가 시 5,000원(1박기준/현장결제)\n- 신청 시간: 제한없음\n- 준비 소요시간: 15분\n- 이용 시간: ~ 23:00\n※ 우천/동계/강풍 시 이용 가능\n※ 개별테라스 바베큐 가능하나 동절기에는 공동 바베큐장 이용 권장\n※ 풀잎향기, 꽃잎향기: 창문 있음 / 처음향기, 마음향기, 나무향기, 솔잎향기: 비닐 또는 천막 없음\n\n[공용수영장]\n- 이용 객실: 전 객실\n- 운영 계절: 하절기\n- 운영 기간: 26년도 6월 12일~9월 27일\n- 온도: 냉수\n- 이용 요금: 무료\n- 이용 시간: 14:00 ~ 20:00\n- 이용 복장: 자유복장\n- 수영장 크기: 가로 500 x 세로 600 x 높이 100(cm)\n※ 수영장에 애견 입수 불가\n※ 우천 시 이용 불가\n※ 운영시간은 현장 상황에 따라 변경될 수 있음\n\n[애견동반]\n- 이용 객실: 전객실\n- 이용 요금: 1마리 당 10,000원 (1박기준/현장결제)\n- 제한 무게: 7kg 소형견\n- 제한 마릿수: 2마리까지\n- 반려동물 허용 종류: 반려견만 가능\n- 제한 사항: 맹견 종류 입실 불가\n\n[스파]\n- 이용 객실: 마음향기, 나무향기, 풀잎향기, 꽃잎향기\n- 스파 형태: 월풀 스파\n- 수용 인원: 1인\n- 이용 요금: 무료\n- 이용 시간: 제한없음\n- 온도 조절: 가능\n- 입욕제 사용: 가능\n\n[불멍]\n- 이용 객실: 전객실\n- 운영 기간: 사계절\n- 이용 장소: 1층 마당\n- 제공 구성: 장작\n- 이용 요금: 20,000원 (1박기준/현장결제)\n- 이용 시간: ~23:00 \n- 개인 불멍 용품(화롯대, 연료 등) 지참: 불가\n- 외부 장작 반입: 불가\n※ 우천, 강풍 시 이용 불가\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 엘레베이터 미보유\n- 넷플릭스 이용 불가\n- 드무리해변 약 2분, 십리포해수욕장 약 13분\n- 펜션 앞 바다에서 바지락 체험 가능\n- 영흥대교 밑 낚시 가능(무료)\n\n[주차장]\n- 주자창 보유\n- 이용 요금: 무료 \n- 주차 대수: 제한없음\n- 전기차 충전기 이용 불가\n※ 전기차 충전은 차량 5분 거리 낚시터 안에서 가능\n\n[픽업]\n- 픽업 종류: 자체픽업\n- 제공 픽업: 입퇴실\n- 장소: 드무리 해변 정류장\n- 이용 요금:무료 \n- 이용 시간 : 제한 없음\n- 픽업 가능 정원: 4인 \n\n- 픽업 종류: 마트픽업\n- 제공 픽업: 입실만\n- 마트명: 나들가게 해피마트\n- 3만원 이상 구매 시 이용 가능",
     "reservationGuide": "※ 인원 초과 입실 불가, 당일 인원 추가 불가, 인원 변동 시 체크인 하루 전까지 연락 요망",
     "province": "도/시",
     "city": "시/군/구",
     "domain": "romaspa.co.kr",
-    "realtimeBookingId": "",
+    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/1793",
     "ybsId": "64645",
     "tripPropertyId": "1793",
     "partnerType": "distributor_a",
@@ -405,7 +405,7 @@
           {
             "id": "b488cf40-19dd-4c38-b095-ec104cbf49f0",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/28/sSkT2YIcla8m.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -415,7 +415,7 @@
           {
             "id": "585b4cfc-8cb3-44e1-9e8e-6aff381386c7",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/28/w1t6q3PD9HIE.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -423,7 +423,7 @@
           {
             "id": "dbd2557d-cf3c-4e9b-9d10-ac8cc27feb9c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/28/Y4AEsUlIPpm9.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -431,7 +431,7 @@
           {
             "id": "963f5a18-57a7-4c5f-a998-1ceccd31bf45",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/28/Tkv4QulKpMnD.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -439,7 +439,7 @@
           {
             "id": "cf0f33c5-d3b1-4fe9-92ce-5a4321b67715",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/28/qE0oVAGCTI93.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -447,7 +447,7 @@
           {
             "id": "ee42a8b0-b87a-424a-b756-789648cd3fc1",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/28/siMIpQF3oJcD.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -455,7 +455,7 @@
           {
             "id": "fc2c19e7-707b-4903-a15e-1507010cf933",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/28/KDeLGT483YBr.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -463,7 +463,7 @@
           {
             "id": "6c894587-883d-4ee7-853a-493d29875c95",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/28/I95RUWcfTNvg.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -471,7 +471,7 @@
           {
             "id": "36ddc508-650d-4567-badb-33dacc06689f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/28/ck3xU18IjQyK.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1600,7 +1600,16 @@
             {
               "hero": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "01a1ecf1-6e01-776e-89fa-2913e2ab0f22",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1ab6e-aded-7cbd-8d80-0807641298b8/directions_hero/1794976606699-rgu8g4f0s2.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "description": ""
               },
               "notice": {
